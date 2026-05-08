@@ -1,0 +1,15 @@
+
+
+   1: Grand Atlanta Hotel,atlanta,wifi|breakfast|pool,4.5,180
+   2: Peach Tree Inn,atlanta,wifi|parking,4.0,120
+   3: Luxury Suites,miami,wifi|breakfast|pool|parking,4.8,250
+   4: Budget Stay,miami,wifi,3.5,80
+   5: City Comfort Hotel,new york,wifi|breakfast,4.3,200
+   6: Sunset Resort,los angeles,wifi|pool|parking,4.6,220
+   7: Metro Suites,chicago,wifi|breakfast|parking,4.2,160
+   8: Ocean Breeze Hotel,miami,wifi|pool|parking,4.7,150
+   9: Downtown Luxury,new york,wifi|breakfast|parking,4.9,300
+  10: Comfort Inn,chicago,wifi|breakfast,4.1,110
+  11: Beach Paradise,miami,wifi|breakfast|pool,4.4,175
+  12: Southern Suites,atlanta,wifi|parking|breakfast,4.3,140
+  13: Miami Grand Resort,miami,wifi|parking|pool,4.7,200
